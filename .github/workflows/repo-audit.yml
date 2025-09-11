@@ -1,0 +1,11 @@
+﻿name: repo-audit
+on: [push, workflow_dispatch]
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: git lfs install && git lfs fetch --all || true
+      - name: Largest files (working copy)
+        run: |
+          git ls-files -z | xargs -0 -n1 du -b 2>/dev/null | sort -nr | head -50
