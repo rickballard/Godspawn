@@ -10,4 +10,8 @@ node_modules/
 dist/
 .env
 __pycache__/
-*.pyc
+*.pyc# OS cruft
+Thumbs.db
+.DS_Store
+*.tmp
+*.bak
