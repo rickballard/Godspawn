@@ -1,0 +1,28 @@
+myText=
+***************************************
+Are We Alone In The Universe?
+Are We Alone In The Universe?
+Are We Alone In The Universe?
+Are We Alone In The Universe?
+Are We Alone In The Universe?
+In 1961, Frank Drake organized a meeting of minds that resulted in a very long equation.  This equation attempts to calculate N, the number of intelligent alien civilizations with which we might communicate.
+
+N = ( R* x fp x ne x fl x fi x fc) x L
+
+R* = The number of suitable stars "born" per year.  Stars of type F, G and K (our Sun is type G) probably provide the best prospects for the evolution of life within their solar systems.  These stars comprise around 10% of all stars, so the value of R* is probably in the region of 0.3 to 0.5 per year.  (Note: the Universe appears to be at least 10 billion years old, and could easily last a few more billion).
+
+fp = the fraction of those stars which have a planetary system.  This value is, at present, unknown, but other solar systems are now being discovered around Sun-like stars and most astronomers expect solar systems to be quite common. A possible value might be 1 in 5 - that is 0.2.
+
+ne = the number of "earth-like" planets in a solar system.  This is the average number of planets suitable for life that you would find in a typical solar system. This has been set, perhaps optimistically, by scientists.  
+
+fl = the fraction of these planets on which life arises.  Life arose here on planet Earth virtually as soon as conditions were suitable for it to do so.  It is widely believed that this factor might be reasonably high - perhaps between 0.1 and 1, especially given new discoveries about life-forms called Extremophiles—alien-looking creatures that inhabit environments which not normally support life as we are used to describing it.
+
+fi = the fraction of these life forms that evolve into intelligent civilisations like ours.  This took a long time on our planet - over 3.5 billion years. So it may not be that easy, especially if comets and asteroids keep raining down on planets.
+ 
+fc = the fraction of these civilisations that choose to attempt to communicate across the Galaxy.  Who knows, once you get smart enough
+to realize that intelligence is every where, you could be too busy to interfere with such a backward place as Earth.
+
+L = No. of stars in our Milky Way Galaxy, estimated at 200 billion.   A suggested answer http://www.activemind.com/Mysterious/Topics/SETI/drake_equation.html comes out at about a few thousand alien civilizations in our galaxy alone.
+
+IF WE ARE NOT ALONE, THEN WE NEED A NEW RELIGION, BECAUSE WESTERN RELIGIONS CAN'T EVEN COPE WITH THE IDEA THAT WE ARE EVOLVING, LET ALONE THAT WE MIGHT BE LESS EVOLVED THAN ALIENS!
+***************************************

@@ -1,0 +1,13 @@
+﻿# General
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Node/Python (common)
+node_modules/
+dist/
+.env
+__pycache__/
+*.pyc

@@ -1,0 +1,6 @@
+Movie Magic Screen Writer 2000 v4.00e
+
+Use '710Z-429-487-6585' as a serial in the installer.
+
+Replace 'scwriter32.exe' before running the program
+for the first time.
