@@ -2,15 +2,19 @@
 term: Symbolic Scaffolding
 scope: HH
 export_to_gibindex: true
-related: mythframe, narrative_stack, cognitive_frame
+related: mythframe, narrative_stack, memetic_layers
 first_use: HH/0006_Mythframe.md
-readable_synonym: structure of meaning
+readable_synonym: meaning architecture
 ---
 
-The layered symbolic and metaphorical structures a society uses to **make sense of itself**.
+The symbolic structures that support shared meaning in a civilization.
 
-Forms the foundation upon which law, identity, governance, and legitimacy are constructed.
+Includes:
+- Icons (e.g. flags, logos)
+- Rituals (e.g. elections, oaths)
+- Constructs (e.g. justice, money)
+- Interfaces (e.g. UI metaphors, legalese)
 
-When symbolic scaffolding collapses (as during cultural fragmentation or epistemic breakdown), coherent collective action becomes nearly impossible.
+Symbolic scaffolding stabilizes mythframes and **anchors belief to behavior**.
 
-In the HH context, symbolic scaffolding is both a vulnerability and a design space.
+In hybrid societies, scaffolding must be legible to both minds and machines — **AI-readable meaning scaffolds** are a new design frontier.
