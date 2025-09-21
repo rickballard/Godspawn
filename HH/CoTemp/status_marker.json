@@ -1,0 +1,10 @@
+{
+  "session": "HH",
+  "last_committed_chunk": null,
+  "start_time_utc": "2025-09-21T12-15-21Z",
+  "bpoe": "HH/BPOE.md",
+  "toc": "HH/TOC.md",
+  "repo": "Godspawn",
+  "stitch_dir": "HH/_stitch",
+  "megascroll": "HH/megascroll.md"
+}

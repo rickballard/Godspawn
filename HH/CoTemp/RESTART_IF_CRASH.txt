@@ -1,0 +1,1 @@
+If this file exists, the HH session was interrupted and should be resumed from CoTemp.
