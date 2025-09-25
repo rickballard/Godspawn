@@ -1,22 +1,5 @@
-﻿# General
-*.log
-*.tmp
-*.bak
 .DS_Store
 Thumbs.db
-
-# Node/Python (common)
-node_modules/
-dist/
-.env
-__pycache__/
-*.pyc# OS cruft
-Thumbs.db
-.DS_Store
-*.tmp
-*.bak
-# OS / tooling
-Thumbs.db
-.DS_Store
-*.tmp
-*.bak
+*.zip
+assets/sketches/*.psd
+assets/sketches/*.fig
